@@ -1,0 +1,50 @@
+Department No:2222
+Name:Allen
+Email:allen@gmail.com
+Phone No:7898551234
+Emp ID:111
+Department No:1000
+Name:Smith
+Email:smith@gmail.com
+Phone No:8974563320
+Emp ID:112
+Department No:1000
+Name:Jones
+Email:jones@gmail.com
+Phone No:6897546315
+Emp ID:113
+Department No:1000
+Name:Ward
+Email:ward@gmail.com
+Phone No:7896532140
+Emp ID:114
+Department No:1565
+Name:Smith
+Email:smith@gmail.com
+Phone No:7896543002
+Emp ID:222
+Department No:1565
+Name:Martin
+Email:martin@gmail.com
+Phone No:7896532146
+Emp ID:223
+Department No:1565
+Name:Blake
+Email:blake@gmail.com
+Phone No:88965471230
+Emp ID:224
+Department No:3583
+Name:Scott
+Email:scott@gmail.com
+Phone No:9987654124
+Emp ID:333
+Department No:3583
+Name:James
+Email:james@gmail.com
+Phone No:7896654213
+Emp ID:441
+Department No:3583
+Name:Miller
+Email:miller@gmail.com
+Phone No:7896532140
+Emp ID:442

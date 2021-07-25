@@ -1,0 +1,9 @@
+﻿Dept Name:Data Science
+Dept ID:2222
+Number of Projects:5
+Dept Name:Robotics
+Dept ID:1565
+Number of Projects:2
+Dept Name:AIML
+Dept ID:3583
+Number of Projects:12
